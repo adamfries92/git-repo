@@ -1,0 +1,15 @@
+!PullState
+assets:
+  stage-packages: []
+project_options: {deb_arch: amd64}
+properties:
+  plugin: autotools
+  source: http://ftp.gnu.org/gnu/hello/hello-2.10.tar.gz
+  source-branch: ''
+  source-commit: ''
+  source-depth: 0
+  source-subdir: ''
+  source-tag: ''
+  source-type: ''
+  stage-packages: []
+schema_properties: []
