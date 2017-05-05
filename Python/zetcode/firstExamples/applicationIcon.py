@@ -7,9 +7,6 @@ ZetCode PyQt5 Tutorial
 This example shows an icon
 in the titlebar of the window.
 
-author: Adam Fries
-last edit: 04MAY2017
-
 """
 
 import sys
